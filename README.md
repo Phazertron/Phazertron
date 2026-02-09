@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Claudio</h1>
-<h3 align="center">Developer • Systems Architect • Embedded & Automation Engineer</h3>
+<h3 align="center">Developer • Systems Architect • Embedded & Automation • Game Developer</h3>
 
 
 ###
